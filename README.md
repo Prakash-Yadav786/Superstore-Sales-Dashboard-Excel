@@ -101,7 +101,7 @@ Excel | SQL | Power BI | Data Analysis | Dashboard Development
 https://www.linkedin.com/in/prakash-yadav786/
 
 🔗 GitHub:
-https://github.com/your-github-username
+https://github.com/Prakash-Yadav786
 
 ---
 
