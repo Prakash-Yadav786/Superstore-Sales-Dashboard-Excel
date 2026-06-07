@@ -79,13 +79,6 @@ Watch the complete dashboard walkthrough here:
 
 ---
 
-## 📂 Files Included
-
-- Superstore Data.xlsx
-- Dashboard Final.xlsx
-- Dashboard Screenshot
-- README.md
-
 ---
 
 ## 👨‍💻 Author
