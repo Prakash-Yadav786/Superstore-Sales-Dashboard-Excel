@@ -79,8 +79,6 @@ Watch the complete dashboard walkthrough here:
 
 ---
 
----
-
 ## 👨‍💻 Author
 
 ### Prakash Yadav
